@@ -8,12 +8,11 @@ namespace Лабораторная__13
 {
     internal class Program
     {
+        private static int c;
+
         static void Main(string[] args)
         {
+            //Здесь будет код для моего приложения
         }
     }
 }
-
-//Это новый код
-
-// Доделываю код
