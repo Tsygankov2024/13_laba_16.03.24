@@ -14,10 +14,13 @@ namespace Лабораторная__13
         {
             //Здесь будет код для моего приложения
             //Начинаю слияние 232
-            
+
+        }
+        private static int d;
+        static void Main(string arg)
+        {
+            ///Здесь новый код
+            Console.WriteLine(arg); 
         }
     }
 }
-
-// Это 14 Лаба
-// Добавил изменения
